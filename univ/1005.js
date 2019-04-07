@@ -6,7 +6,7 @@ var univ_list = {
         url: "https://www.bupt.edu.cn/"
     }, {
         name: "教务系统",
-        url: "http://jwxt.bupt.edu.cn/"
+        url: "https://jwxt.bupt.edu.cn/jwLoginAction.do"
     }, {
         name: "北邮IPTV",
         url: "http://tv.byr.cn/show"
